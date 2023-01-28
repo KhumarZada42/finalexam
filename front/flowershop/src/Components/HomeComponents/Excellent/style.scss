@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.excellent {
+    *{
+        font-family: 'Montserrat', sans-serif;
+    }
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl1-967x725.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 65vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:  rgba(8, 95, 81, 0.877);
+    font-weight: lighter;
+    p{
+        font-style: italic;
+        font-weight: 300px;
+    }
+    }
+

@@ -1,0 +1,29 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.eventcardeve{
+    margin: 50px;
+    padding: 10px;
+    .cardeve{
+        border-radius: 5px;
+        padding: 10px;
+        width: 227px;
+        height: 249px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-style: solid;
+        color:rgba(8, 95, 81, 0.877) ;
+        border-color: rgba(8, 95, 81, 0.877) ;
+    background-color: rgb(253, 249, 214);
+    .btnshop{
+        background-color:  rgb(218, 211, 150);
+        text-decoration: none;
+        border-radius: 5px;
+        padding: 10px;
+        color:rgba(8, 95, 81, 0.877) 
+    }
+    }
+}

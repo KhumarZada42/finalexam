@@ -1,0 +1,27 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.cardflower{
+    display: flex;
+    flex-direction: row;
+    
+    .card{
+
+        display: flex;;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        .card-body{
+            display: flex;
+            flex-direction: column;
+            flex-wrap: nowrap;
+            align-items: center;
+            .btndelete{
+                color: rgb(255, 255, 255);
+                padding: 10px;
+                background-color: rgba(8, 95, 81, 0.877);
+                border-radius: 5px;
+                text-decoration: none;
+            }
+        }
+    }
+}
